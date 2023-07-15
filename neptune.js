@@ -72,5 +72,5 @@
       </div>
       <div>${()=>Ta[Pa()].component}</div>
     </div>
-  </div>`),ha("USER_PROFILE","neptune settings",(()=>neptune.actions.router.push({pathname:"/neptune/settings",replace:!0})));for(let e in console){const t=console[e];Object.defineProperty(console,e,{set:()=>!0,get:()=>t})}const Va=Object.defineProperty;Object.defineProperty=function(...e){e[2].configurable=!0;try{return Va.apply(this,e)}catch{}},Object.freeze=e=>e,window.neptune=ca}();
+  </div>`),ha("USER_PROFILE","neptune settings",(()=>neptune.actions.router.push({pathname:"/neptune/settings",replace:!0})));for(let e in console){const t=console[e];Object.defineProperty(console,e,{set:()=>!0,get:()=>t})}const Va=Object.defineProperty;Object.defineProperty=function(...e){e[2].configurable=!0;try{return Va.apply(this,e)}catch{}},Object.freeze=e=>e,setTimeout((()=>!document.getElementById("skeleton-logged-out")??window.location.reload()),3e3),window.neptune=ca}();
 //# sourceMappingURL=neptune.js.map
