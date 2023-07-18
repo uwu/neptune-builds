@@ -24,7 +24,7 @@
         <${rn} values=${()=>ks}>
           ${e=>Ln`<${Os} plugin=${e} />`}
         </${rn}>
-      </div>`}},{name:"Themes",component:()=>Ln`[WIP]`}];function Os({plugin:e}){return Ln`<div class="neptune-plugin-card">
+      </div>`}},{name:"Themes",component:()=>Ln`[WIP]`},{name:"Addon Store",component:()=>Ln`[WIP]`}];function Os({plugin:e}){return Ln`<div class="neptune-plugin-card">
     <div class="neptune-plugin-card-content">
       <div>
         <div style="display: flex; gap: 15px">
